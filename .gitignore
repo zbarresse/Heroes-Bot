@@ -76,5 +76,3 @@ typings/
 .fusebox/
 
 # settings
-config/settings.json
-config.bot.json

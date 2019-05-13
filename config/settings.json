@@ -1,0 +1,19 @@
+{
+    "token":"YOUR BOT TOKEN GOES HERE",
+    "prefix":"YOUR PREFIX GOES HERE",
+    "allowed":[
+        "ALLOWED_SERVER_ID",
+        "IF_BLANK_ALL_SERVERS_ALLOWED"
+    ],
+    "notallowed":"REPLY_MESSAGE_WHEN_SERVER_NOT_ALLOWED",
+    "botmasters":[
+        "YOUR DISCORD ID GOES HERE",
+        "ID_OF_BOTMASTER"
+    ],
+    "commands":{
+        "help":"help.js",
+        "invite":"invite.js",
+        "example":"example.js",
+        "NAME OF COMMAND":"YOURCOMMAND.js"
+    }
+}
