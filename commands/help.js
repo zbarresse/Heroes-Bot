@@ -24,7 +24,7 @@ module.exports = async ( client, message ) => {
   }
 
 	//console.log(new Map(client.users))
-	console.log(client.user.id)
+	//console.log(client.user.id)
 
 	try {
 
