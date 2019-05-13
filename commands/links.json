@@ -1,0 +1,277 @@
+{
+  "guilds": {
+    "h1": {
+      "name": "Heroes of the Fallen Empire",
+      "nickname": "g1",
+      "url": "https://swgoh.gg/g/20087/heroes-of-the-fallen-empire/"
+    },
+    "h2": {
+      "name": "Heroes of the Fallen Empires",
+      "nickname": "g2",
+      "url": "https://swgoh.gg/g/27607/heros-of-a-fallen-empire/"
+    },
+    "h3": {
+      "name": "HotFE - The Revolution Begins",
+      "nickname": "g3",
+      "url": "https://swgoh.gg/g/38885/heroes-of-the-fallen-empire3/"
+    },
+    "h4": {
+      "name": "Blizzard Force {HotFE}",
+      "nickname": "g4",
+      "url": "https://swgoh.gg/g/38927/blizzard-force-hotfe/"
+    },
+    "h5": {
+      "name": "Darksaber {HotFE}",
+      "nickname": "g5",
+      "url": "https://swgoh.gg/g/24325/darksaber-hotfe/"
+    },
+    "h6": {
+      "name": "Ars Imperia HotFE",
+      "nickname": "g6",
+      "url": "https://swgoh.gg/g/7224/ars-imperia-hotfe/"
+    }
+  },
+  "zetas": [
+    {
+      "name": "all",
+      "url": "https://script.google.com/macros/s/AKfycbyq_SH4OpcbAyEGtG4ysRrvvqr4jYihrfTgQyOHfUFhR2pVYYM/exec"
+    },
+    {
+      "name": "zetas",
+      "url": "https://script.google.com/macros/s/AKfycbyq_SH4OpcbAyEGtG4ysRrvvqr4jYihrfTgQyOHfUFhR2pVYYM/exec?request=zetas"
+    },
+    {
+      "name": "details",
+      "url": "https://script.google.com/macros/s/AKfycbyq_SH4OpcbAyEGtG4ysRrvvqr4jYihrfTgQyOHfUFhR2pVYYM/exec?request=details"
+    },
+    {
+      "name": "credits",
+      "url": "https://script.google.com/macros/s/AKfycbyq_SH4OpcbAyEGtG4ysRrvvqr4jYihrfTgQyOHfUFhR2pVYYM/exec?request=credits"
+    },
+    {
+      "name": "usage",
+      "url": "https://script.google.com/macros/s/AKfycbyq_SH4OpcbAyEGtG4ysRrvvqr4jYihrfTgQyOHfUFhR2pVYYM/exec?request=usage"
+    }
+  ],
+  "bots": {
+    "Heroes Bot": {
+      "prefix": "&",
+      "help": "&help",
+      "description": "A super dope bot made for Hereoes of the Fallen Empire.",
+      "discord": "",
+      "invite": "",
+      "url": "",
+      "master": "<@170712392894775298>"
+    },
+    "Scorpio": {
+      "prefix": "$",
+      "help": "$help",
+      "description": "Reporting player, zeta recommendations, arena, and guild data with a wide variety of tools.",
+      "discord": "https://discord.gg/XB4DKCt",
+      "invite": "https://discordapp.com/oauth2/authorize?client_id=410451793751834625&scope=bot&permissions=515136",
+      "url": "https://www.patreon.com/shittybots",
+      "master": "<@305465187799007232>"
+    },
+    "SWGoH Bot": {
+      "prefix": ";",
+      "help": ";h",
+      "description": "Reporting player and guild data with a wide variety of tools.",
+      "discord": "https://discord.gg/FfwGvhr",
+      "invite": "http://swgohbot.com/invite",
+      "url": "http://swgohbot.com/",
+      "master": "<@124579977474736129>"
+    },
+    "DSR": {
+      "prefix": ",",
+      "help": ",h",
+      "description": "Reporting your guild's heroic sith raid, TW, and GA readiness.",
+      "discord": "https://discord.gg/fkwypSp",
+      "invite": "https://discordapp.com/oauth2/authorize?client_id=436693905736466432&scope=bot&permissions=392256",
+      "url": "",
+      "master": "<@334754455616618499>"
+    },
+    "EchoStation": {
+      "prefix": "eb",
+      "help": "eb.help",
+      "description": "Calculate platoon orders for TB. Check to see what toons/ships are needed per phase.",
+      "discord": "https://discord.gg/MnkBsyT",
+      "invite": "https://discordapp.com/api/oauth2/authorize?client_id=416767534528987137&scope=bot&permissions=805829696",
+      "url": "https://echobase.app/",
+      "master": "<@347179670443393035>"
+    },
+    "swgoh.events bot": {
+      "prefix": "e",
+      "help": "e.help",
+      "description": "Find the next event dates, history, tips & tricks, & rumors",
+      "discord": "https://discord.gg/dutmBwj",
+      "invite": "https://discordapp.com/oauth2/authorize?client_id=454788231590969344&scope=bot&permissions=392256",
+      "url": "https://swgohevents.com/",
+      "master": "<@101825547788632064>"
+    },
+    "Counter Bot": {
+      "prefix": "=",
+      "help": "=help",
+      "description": "Search the best counter teams and strategies for your PvP battles",
+      "discord": "https://discord.gg/MtDn8ze",
+      "invite": "https://discordapp.com/oauth2/authorize?client_id=525598644624162816&scope=bot&permissions=392256",
+      "url": "",
+      "master": "<@273957542378471424>"
+    },
+    "AP-5R": {
+      "prefix": "/",
+      "help": "/help",
+      "description": "Beautiful character portraits with stat results.",
+      "discord": "https://discord.gg/8GssvyU",
+      "invite": "https://discordapp.com/oauth2/authorize?client_id=355873395164053512&scope=bot&permissions=392256",
+      "url": "",
+      "master": "<@271667474922078210>"
+    },
+    "Kaos Bot": {
+      "prefix": "+",
+      "help": "+help",
+      "description": "Officer poll and warning tools. Plus some fun stuff.",
+      "discord": "https://discord.gg/nu99Snr",
+      "invite": "https://discordapp.com/oauth2/authorize?client_id=423116079091417092&scope=bot&permissions=392256",
+      "url": "",
+      "master": "<@170712392894775298>"
+    },
+    "Crouching Rancor": {
+      "prefix": "%",
+      "help": "%help",
+      "description": "Mod recommendations, raid damage estimator, and other TB & arena tools.",
+      "discord": "https://discord.gg/nyWgbU3",
+      "invite": "https://discordapp.com/oauth2/authorize?&client_id=360075123841040395&scope=bot&permissions=0",
+      "url": "http://www.crouchingrancor.com/",
+      "master": "<@341475291467874307>"
+    },
+    "Mee6": {
+      "prefix": "!",
+      "help": "!help",
+      "description": "A customizable discord bot. Can track members, allow moderation, and fun leveling up.",
+      "discord": "https://mee6.xyz/dashboard",
+      "invite": "https://discordapp.com/invite/mee6",
+      "url": "https://mee6.xyz/",
+      "master": ""
+    },
+    "Dyno Bot": {
+      "prefix": "?",
+      "help": "?help",
+      "description": "A customizable discord bot. Tracks members comings and goings.",
+      "discord": "https://dyno.gg/discord",
+      "invite": "https://dyno.gg/invite",
+      "url": "https://www.dynobot.net/",
+      "master": ""
+    },
+    "Imperial Probe Droid": {
+      "prefix": "!",
+      "help": "!help",
+      "description": "Show mod recommendations across various sources.",
+      "discord": "",
+      "invite": "https://discordapp.com/api/oauth2/authorize?client_id=533344746928865282&permissions=313344&scope=bot",
+      "url": "https://www.patreon.com/imperial_probe_droid",
+      "master": "<@337687649198276611>"
+    }
+  },
+  "resources": {
+    "The Escape Pod...cast": {
+      "discord": "https://discord.gg/Y3r4Cdt"
+    },
+    "CubsFanHan": {
+      "discord": "https://discord.gg/QC6gCNX"
+    },
+    "AhnaldT101": {
+      "discord": "https://discord.gg/eT3SZCj"
+    },
+    "Mobile Gamer": {
+      "discord": "https://discord.gg/tN9CSmj"
+    },
+    "Skelturix": {
+      "discord": "https://discord.gg/yaeTEaP"
+    },
+    "Nukin": {
+      "discord": "https://discord.gg/S4wWRQW"
+    },
+    "Urza": {
+      "discord": "https://discord.gg/7gKKhBe"
+    },
+    "Crazy Excuses": {
+      "discord": "https://discord.gg/4eb7J7U"
+    },
+    "Halfface01": {
+      "discord": "https://discord.gg/GRpnAkz"
+    },
+    "SWGoH University": {
+      "discord": "https://discord.gg/euSynux"
+    },
+    "GA Flames": {
+      "discord": "https://discord.gg/bJcUA9t"
+    },
+    "TW Cantina": {
+      "discord": "https://discord.gg/v6jW9eN"
+    },
+    "SWGoH Squad Builder": {
+      "discord": "https://discord.gg/uqbXqJy"
+    },
+    "SWGoH Archives": {
+      "discord": "https://discord.gg/XXKJbWU"
+    },
+    "Merc Legends": {
+      "discord": "https://discord.gg/6bAU6ax"
+    },
+    "Mods Optimizer": {
+      "discord": "https://discord.gg/ZeJbUXt"
+    }
+  },
+  "factions": {
+    "Jedi": {
+      "discord": "https://discord.gg/Pa4PFfZ"
+    },
+    "Sith": {
+      "discord": "https://discord.gg/Pa4PFfZ"
+    },
+    "Empire": {
+      "discord": "https://discord.gg/cqAU32U"
+    },
+    "Ewoks": {
+      "discord": "https://discord.gg/CeaqCan"
+    },
+    "Resistance": {
+      "discord": "https://discord.gg/Zt6bDz5"
+    },
+    "First Order": {
+      "discord": "https://discord.gg/nb5X7WP"
+    },
+    "Fleets": {
+      "discord": "https://discord.gg/PSmX6z9"
+    },
+    "Nightsisters": {
+      "discord": "https://discord.gg/meNXqyT"
+    },
+    "Bounty Hunters": {
+      "discord": "https://discord.gg/FBM9ZW7"
+    },
+    "Droids": {
+      "discord": "https://discord.gg/W3X7gRN"
+    }
+  },
+  "websites": {
+    "SWGoH.help (roster progress)": {
+      "discord": "https://swgoh.help/"
+    },
+    "SWGoH.help (wiki)": {
+      "discord": "https://wiki.swgoh.help/"
+    },
+    "SWGoH.gg": {
+      "discord": "https://swgoh.gg/"
+    },
+    "SWGoH.life": {
+      "discord": "http://www.swgoh.life/"
+    },
+    "Mods Optimizer by GrandIvory": {
+      "discord": "https://mods-optimizer.swgoh.grandivory.com/"
+    },
+    "Crouching Rancor": {
+      "discord": ""
+    }
+  }
+}
