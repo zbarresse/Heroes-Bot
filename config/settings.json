@@ -1,3 +1,26 @@
 {
-  "test": "ok2"
+    "token":"NTcyOTAxMDg4MjE5NjI3NTIw.XMjGwQ.bz03FoSh1SKUIG3dM_Oz9JqpK-s",
+    "prefix":"&",
+    "allowed":["299633289986048000"],
+    "notallowed":"",
+    "botmasters":["170712392894775298"],
+    "commands":{
+        "help":"help.js",
+        "h": "help.js",
+		    "donate":"donate.js",
+		    "guild":"guild.js",
+        "g": "guild.js",
+		    "alliance":"alliance.js",
+        "a": "alliance.js",
+        "bots": "bots.js",
+        "b": "bots.js",
+        "ping": "ping.js",
+        "swgoh": "swgoh.js",
+        "sw": "swgoh.js",
+        "officers": "officers.js",
+        "officer": "officers.js",
+        "off": "officers.js",
+        "o": "officers.js"
+    },
+    "logchannel": "431841806825553920"
 }
