@@ -76,5 +76,4 @@ typings/
 .fusebox/
 
 # settings
-.config/
 config/settings.json
