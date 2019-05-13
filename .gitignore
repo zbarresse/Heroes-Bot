@@ -77,5 +77,4 @@ typings/
 
 # settings
 .config/
-.project
 config.settings.json
